@@ -8,7 +8,7 @@ layout: home
 Welcome! In this blog series you will find random rants about the embedded systems specifically embedded linux.
 
 ```
-This blog is distributed in the hope that it will be useful,
+This blog is published in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details
