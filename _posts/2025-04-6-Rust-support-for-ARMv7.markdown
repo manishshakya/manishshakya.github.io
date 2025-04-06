@@ -16,7 +16,6 @@ Read `Documentation/rust/quick-start.rst`.
 
 ```sh
 sudo apt install llvm clang clang-tools lld
-
 ```
 
 ## Install Clang
