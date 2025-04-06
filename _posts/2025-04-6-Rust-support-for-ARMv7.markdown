@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linux kernel: Rust support for ARMv7"
-date: 2025-03-30 14:48:16
+date: 2025-04-06 10:38:00
 categories: linux boot-analysis
 published: true
 ---
@@ -34,7 +34,7 @@ rustup target add armv7-unknown-linux-gnueabihf
 cargo install bindgen-cli
 ```
 
-## Patch kerneil
+## Patch kernel
 
 ```sh
 wget https://lore.kernel.org/all/20250123-rfl-arm32-v3-1-8f13623d42c5@gmail.com/raw -O patch-email.txt
