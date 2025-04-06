@@ -11,12 +11,7 @@ I tried adding Rust support for ARMv7. See: [https://lore.kernel.org/all/2025012
 ## Documentation
 
 Read `Documentation/rust/quick-start.rst`.
-
-## Install Clang
-
-```sh
-sudo apt install llvm clang clang-tools lld
-```
+Read `Documentation/rust/testing.rst`.
 
 ## Install Clang
 
